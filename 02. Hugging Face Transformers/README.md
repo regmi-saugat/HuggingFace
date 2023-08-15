@@ -56,3 +56,7 @@ Translating text into numbers is known as encoding. It is done in two processes:
 
 **Decoding:**
 - Decoding is going the other: from vocabulary indices, we want to get a string. This can be done with the `decode()` method
+
+---
+
+![Images](https://github.com/regmi-saugat/HuggingFace/blob/main/Images/04_transformers_ch2_complete.png)
