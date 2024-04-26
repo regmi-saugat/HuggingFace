@@ -21,7 +21,7 @@ In the [Transformers Model](https://github.com/regmi-saugat/HuggingFace/blob/mai
 
 ----
 
-![Images](https://github.com/regmi-saugat/HuggingFace/blob/main/Images/01.%20transformer_model.png)
+![Images](../Images/01.%20transformer_model.png)
 
 **1. Sentiment Analysis**
 - It is a branch of natural language processing, which involves the emotional tone or sentiment expressed in text.

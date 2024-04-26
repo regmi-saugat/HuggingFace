@@ -2,7 +2,7 @@
 
 The [**Pipeline Function**](https://github.com/regmi-saugat/HuggingFace/blob/main/02.%20Hugging%20Face%20Transformers/Behind%20the%20Pipeline.ipynb) notebook contains the steps required for the pipeline. This pipeline serves as a well-structured pathway that transforms raw text into actionable insights, leveraging the power of Hugging Face Transformers 
 
-![Hugging Face](https://github.com/regmi-saugat/HuggingFace/blob/main/Images/02.%20pipeline%20_function.png)
+![Hugging Face](../Images/02.%20pipeline%20_function.png)
 
 **Preprocessing with tokenizers:** Our first step is to convert the text into numbers that model can understand. For this purpose, we use a `tokenizer`
 - Splitting inputs into words, subwords, or symbols (like punctuations) i.e. called tokens
@@ -19,7 +19,7 @@ The [**Pipeline Function**](https://github.com/regmi-saugat/HuggingFace/blob/mai
 
 The [**Tokenizers & Models**](https://github.com/regmi-saugat/HuggingFace/blob/main/02.%20Hugging%20Face%20Transformers/Models%20and%20Tokenizers.ipynb) notebook contains the comprehensive information about the basic buildings blocks of a Transformer model, tokenization pipeline, limitations of input IDs, attention masks, and configurable tokenizer methods.
 
-![Images](https://github.com/regmi-saugat/HuggingFace/blob/main/Images/03.%20models_and_tokenizers.png)
+![Images](../Images/03.%20models_and_tokenizers.png)
 
 **Tokenizers:**
 - Tokenizers are one of the core components of the NLP Pipeline
@@ -59,4 +59,4 @@ Translating text into numbers is known as encoding. It is done in two processes:
 
 ---
 
-![Images](https://github.com/regmi-saugat/HuggingFace/blob/main/Images/04_transformers_ch2_complete.png)
+![Images](../Images/04_transformers_ch2_complete.png)
